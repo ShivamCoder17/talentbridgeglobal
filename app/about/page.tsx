@@ -15,7 +15,9 @@ export default function AboutPage() {
           </h1>
           <div className="prose prose-zinc dark:prose-invert max-w-none space-y-6 text-lg leading-8">
             <p className="text-zinc-600 dark:text-zinc-400">
-              TalentBridgeGlobal is a leading talent acquisition and placement
+              TalentBridge Global is a founder-led recruitment firm working with
+              growing companies accross IT and non-IT domains.
+              It is also a leading talent acquisition and placement
               platform dedicated to connecting exceptional professionals with
               world-class opportunities across the globe.
             </p>

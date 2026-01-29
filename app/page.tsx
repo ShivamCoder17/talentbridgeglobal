@@ -60,20 +60,20 @@ export default function Home() {
           <p className="mb-8 text-xl text-zinc-600 dark:text-zinc-400 sm:text-2xl">
             Excellence in Talent Sourcing, Recruitment & Staffing Solutions for Enterprise Growth.
           </p>
-          <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
+          {/* <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
             <Link
               href="/apply"
               className="rounded-full bg-foreground px-8 py-4 text-base font-medium text-background transition-colors hover:bg-zinc-800 dark:hover:bg-zinc-200"
             >
               Apply Now
             </Link>
-            {/* <Link
+            <Link
               href="/jobs"
               className="rounded-full border border-zinc-300 bg-white px-8 py-4 text-base font-medium text-foreground transition-colors hover:bg-zinc-50 dark:border-zinc-700 dark:bg-zinc-950 dark:hover:bg-zinc-900"
             >
               Browse Jobs
-            </Link> */}
-          </div>
+            </Link>
+          </div> */}
         </div>
       </section>
 
@@ -132,7 +132,7 @@ export default function Home() {
             <div className="relative">
               <svg className="hidden md:block absolute top-12 left-0 w-full h-full -z-0 opacity-30" viewBox="0 0 800 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M150 60 H 650 A 50 50 0 0 1 700 110 V 210 A 50 50 0 0 1 650 260 H 150 A 50 50 0 0 0 100 310 V 410 A 50 50 0 0 0 150 460 H 650 A 50 50 0 0 1 700 510 V 610 A 50 50 0 0 1 650 660 H 150 A 50 50 0 0 0 100 710 V 810 A 50 50 0 0 0 150 860 H 250"
-                  stroke="white" stroke-width="2" stroke-dasharray="8 12" stroke-linecap="round">
+                  stroke="white" strokeWidth="2" strokeDasharray="8 12" strokeLinecap="round">
                   <animate attributeName="stroke-dashoffset" from="100" to="0" dur="5s" repeatCount="indefinite" />
                 </path>
               </svg>

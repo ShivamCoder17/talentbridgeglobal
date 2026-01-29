@@ -65,14 +65,14 @@ export default function Footer() {
                   Browse Jobs
                 </Link>
               </li> */}
-              <li>
+              {/* <li>
                 <Link
                   href="/apply"
                   className="text-zinc-600 transition-colors hover:text-foreground dark:text-zinc-400 dark:hover:text-zinc-50"
                 >
                   Apply Now
                 </Link>
-              </li>
+              </li> */}
               <li>
                 <Link
                   href="/contact"

@@ -44,12 +44,12 @@ export default function Navbar() {
           >
             Contact Us
           </Link>
-          <Link
+          {/* <Link
             href="/apply"
             className="rounded-full bg-foreground px-4 py-2 text-sm font-medium text-background transition-colors hover:bg-zinc-800 dark:hover:bg-zinc-200"
           >
             Apply Now
-          </Link>
+          </Link> */}
         </div>
         <button
           className="md:hidden"
