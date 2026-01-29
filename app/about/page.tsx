@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About Us | TalentBridge Global",
-  description: "Learn about TalentBridge Global and our mission to connect talent with opportunities worldwide.",
+  title: "About Us | TalentBridgeGlobal",
+  description: "Learn about TalentBridgeGlobal and our mission to connect talent with opportunities worldwide.",
 };
 
 export default function AboutPage() {
@@ -11,11 +11,11 @@ export default function AboutPage() {
       <div className="container mx-auto px-4 py-16 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-3xl">
           <h1 className="mb-8 text-4xl font-bold text-foreground sm:text-5xl">
-            About TalentBridge Global
+            About TalentBridgeGlobal
           </h1>
           <div className="prose prose-zinc dark:prose-invert max-w-none space-y-6 text-lg leading-8">
             <p className="text-zinc-600 dark:text-zinc-400">
-              TalentBridge Global is a leading talent acquisition and placement
+              TalentBridgeGlobal is a leading talent acquisition and placement
               platform dedicated to connecting exceptional professionals with
               world-class opportunities across the globe.
             </p>

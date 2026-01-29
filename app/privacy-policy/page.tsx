@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | TalentBridge Global",
+  title: "Privacy Policy | TalentBridgeGlobal",
   description: "Read our privacy policy to understand how we collect, use, and protect your personal information.",
 };
 
@@ -22,7 +22,7 @@ export default function PrivacyPolicyPage() {
                 Introduction
               </h2>
               <p className="text-zinc-600 dark:text-zinc-400">
-                TalentBridge Global (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) is committed to
+                TalentBridgeGlobal (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) is committed to
                 protecting your privacy. This Privacy Policy explains how we
                 collect, use, disclose, and safeguard your information when you
                 visit our website and use our services.
@@ -105,7 +105,7 @@ export default function PrivacyPolicyPage() {
                   href="mailto:privacy@talentbridgeglobal.com"
                   className="text-foreground underline"
                 >
-                  privacy@talentbridgeglobal.com
+                  connect@talentbridgeglobal.in
                 </a>
                 .
               </p>

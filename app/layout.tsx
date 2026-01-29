@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "TalentBridgeGlobal - Connecting Talent with Opportunities",
-  description: "TalentBridge Global connects exceptional professionals with world-class opportunities worldwide.",
+  description: "TalentBridgeGlobal connects exceptional professionals with world-class opportunities worldwide.",
 };
 
 export default function RootLayout({

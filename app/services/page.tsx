@@ -1,46 +1,46 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Services | TalentBridge Global",
+  title: "Services | TalentBridgeGlobal",
   description: "Discover our comprehensive talent acquisition and placement services.",
 };
 
 export default function ServicesPage() {
   const services = [
     {
-      title: "Talent Sourcing",
+      title: "Permanent Hiring",
       description:
-        "We leverage our extensive network and advanced sourcing techniques to identify top talent across industries and geographies.",
-      icon: "🔍",
-    },
-    {
-      title: "Candidate Screening",
-      description:
-        "Our rigorous screening process ensures that only the most qualified candidates reach your hiring team.",
+        "Executive to entry-level talent acquisition accross all departments.",
       icon: "✅",
     },
     {
-      title: "Skills Assessment",
+      title: "Contract Hiring",
       description:
-        "Comprehensive evaluation of technical and soft skills to match candidates with the right opportunities.",
+        "Project-based staffing solutions for peak capacity needs.",
+      icon: "🔍",
+    },
+    {
+      title: "RPO",
+      description:
+        "Recruitment Process Outsourcing for end-to-end talent acquisition.",
       icon: "📊",
     },
     {
-      title: "Placement Services",
+      title: "Bulk & Lateral Hiring",
       description:
-        "End-to-end placement support from initial matching to onboarding and beyond.",
+        "Large-scale workforce expansion and mid-career transitions.",
       icon: "🎯",
     },
     {
-      title: "Career Counseling",
+      title: "Campus and Off-Campus Placement",
       description:
-        "Personalized guidance to help candidates navigate their career paths and make informed decisions.",
+        "Placement assistance for both campus and off-campus candidates.",
       icon: "💼",
     },
     {
-      title: "Employer Consulting",
+      title: "Dedicated Support",
       description:
-        "Strategic consulting to help companies optimize their hiring processes and build stronger teams.",
+        "Full recruitment lifecycle management.",
       icon: "🤝",
     },
   ];

@@ -12,7 +12,7 @@ export default function Navbar() {
             href="/about"
             className="text-sm font-medium text-zinc-600 transition-colors hover:text-foreground dark:text-zinc-400 dark:hover:text-zinc-50"
           >
-            About
+            About Us
           </Link>
           <Link
             href="/services"
@@ -21,22 +21,28 @@ export default function Navbar() {
             Services
           </Link>
           <Link
+            href="/industries"
+            className="text-sm font-medium text-zinc-600 transition-colors hover:text-foreground dark:text-zinc-400 dark:hover:text-zinc-50"
+          >
+            Industries
+          </Link>
+          <Link
             href="/challenges"
             className="text-sm font-medium text-zinc-600 transition-colors hover:text-foreground dark:text-zinc-400 dark:hover:text-zinc-50"
           >
             Challenges & Solutions
           </Link>
-          <Link
+          {/* <Link
             href="/jobs"
             className="text-sm font-medium text-zinc-600 transition-colors hover:text-foreground dark:text-zinc-400 dark:hover:text-zinc-50"
           >
             Jobs
-          </Link>
+          </Link> */}
           <Link
             href="/contact"
             className="text-sm font-medium text-zinc-600 transition-colors hover:text-foreground dark:text-zinc-400 dark:hover:text-zinc-50"
           >
-            Contact
+            Contact Us
           </Link>
           <Link
             href="/apply"

@@ -1,4 +1,4 @@
-# TalentBridge Global - Recruitment Agency Website
+# TalentBridgeGlobal - Recruitment Agency Website
 
 A complete, professional recruitment agency website built with Next.js 16 (App Router) and Tailwind CSS v4.
 

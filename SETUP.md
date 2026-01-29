@@ -1,4 +1,4 @@
-# Complete Setup Guide - TalentBridge Global Recruitment Website
+# Complete Setup Guide - TalentBridgeGlobal Recruitment Website
 
 ## Overview
 
