@@ -119,7 +119,7 @@ export default function Home() {
 
       <section className="container mx-auto px-4 py-16 sm:px-6 lg:px-8">
         
-        <div className="bg-black px-4 min-h-screen font-sans text-white">
+        <div className="bg-black px-4 font-sans text-white">
           <div className="max-w-5xl mx-auto">
 
             <div className="text-center mb-24">
